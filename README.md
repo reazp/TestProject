@@ -32,5 +32,11 @@ Enhancement that can be done:
 * Webdriver api has a method to take a screen shot for evry UI failed test which can be added to the project for taking
  screenshot for a failed test. This solution can be found on my blog: http://www.rpatwary.com/2012/08/25/taking-failed-test-screenshot-using-junit/
 
+How to run the project:
+
+* These tests are Junit tests so use any popular IDE and make sure you have Junit plugin installed. All you
+ have to do is to right click on the Test Class and select run as Junit test. Junit will do the rest.
+
+Happy Testing :)
 
 Please feel free to contact me for further question @ "reaz@rpatwary.com"
