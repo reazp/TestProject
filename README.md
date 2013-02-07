@@ -31,4 +31,6 @@ Enhancement that can be done:
 * Using any build tool like ant or maven we can easily generate a junit test report which can be viewed as a html file.
 * Webdriver api has a method to take a screen shot for evry UI failed test which can be added to the project for taking
  screenshot for a failed test. This solution can be found on my blog: http://www.rpatwary.com/2012/08/25/taking-failed-test-screenshot-using-junit/
+
+
 Please feel free to contact me for further question @ "reaz@rpatwary.com"
