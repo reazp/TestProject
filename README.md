@@ -22,4 +22,8 @@ for further reference visit:
 WebDriver Jar download and wiki page: http://code.google.com/p/selenium/downloads/list
 Junit assert API: http://junit.sourceforge.net/javadoc/org/junit/Assert.html
 
+The whole project is designed based on MVC design pattern. Here all the locators of web Elements
+will work as a model, wrapped Webdriver api method will work like a controller, we have to pass test values 
+to controller as weel to see the view which will be our test classes.
+
 Please feel free to contact me for further question @ "reaz@rpatwary.com"
