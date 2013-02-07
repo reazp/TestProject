@@ -26,4 +26,9 @@ The whole project is designed based on MVC design pattern. Here all the locators
 will work as a model, wrapped Webdriver api method will work like a controller, we have to pass test values 
 to controller as weel to see the view which will be our test classes.
 
+Enhancement that can be done:
+
+* Using any build tool like ant or maven we can easily generate a junit test report which can be viewed as a html file.
+* Webdriver api has a method to take a screen shot for evry UI failed test which can be added to the project for taking
+ screenshot for a failed test. This solution can be found on my blog: http://www.rpatwary.com/2012/08/25/taking-failed-test-screenshot-using-junit/
 Please feel free to contact me for further question @ "reaz@rpatwary.com"
