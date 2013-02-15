@@ -5,8 +5,7 @@ import com.pontiflex.base.AdLeadBase;
 import org.junit.Test;
 
 /**
- * User: reaz
- * Date: Mar 8, 2012
+
  */
 public class AdLeadsSignUpTest extends AdLeadBase {
 

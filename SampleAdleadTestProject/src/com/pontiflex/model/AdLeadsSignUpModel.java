@@ -1,8 +1,7 @@
 package com.pontiflex.model;
 
 /**
- * User: reaz
- * Date: Mar 2, 2012
+
  */
 public class AdLeadsSignUpModel {
     

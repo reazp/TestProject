@@ -7,8 +7,7 @@ import com.pontiflex.base.WebDriverWrapper;
 import static org.junit.Assert.assertTrue;
 
 /**
- * User: reaz
- * Date: Mar 2, 2012
+
  */
 public class AdLeadsSignUpController extends WebDriverWrapper {
     private AdLeadsSignUpModel model = new AdLeadsSignUpModel();
